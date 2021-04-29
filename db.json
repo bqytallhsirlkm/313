@@ -2,51 +2,44 @@
   "banners": [
     {
       "id": 1,
-      "image_url": "https://s19.picofile.com/file/8432189326/1cphz0y7yj.jpg"
+      "image_url": "https://s17.picofile.com/file/8429645276/banner1.jpg"
     },
-     {
+    {
       "id": 2,
-      "image_url": "https://s19.picofile.com/file/8432189326/1cphz0y7yj.jpg"
+      "image_url": "https://s17.picofile.com/file/8429645276/banner1.jpg"
     },
-     {
+    {
       "id": 3,
-      "image_url": "https://s19.picofile.com/file/8432189326/1cphz0y7yj.jpg"
+      "image_url": "https://s17.picofile.com/file/8429645276/banner1.jpg"
     }
   ],
   "category": [
-    {"id":1,
-    "name":"DJ",
-    "family":"Snake",
-    "image_url":"https://s19.picofile.com/file/8432189326/1cphz0y7yj.jpg"},
-    {"id":2,
-    "name":"DJ",
-    "family":"Snake",
-    "image_url":"https://s19.picofile.com/file/8432189326/1cphz0y7yj.jpg"},
-    {"id":3,
-    "name":"DJ",
-    "family":"Snake",
-    "image_url":"https://s19.picofile.com/file/8432189326/1cphz0y7yj.jpg"}
-    
+    {
+      "id": 1,
+      "name": "DJ",
+      "family": "Snake",
+      "image_url": "https://images.thequint.com/thequint%2F2019-02%2F7f3e28c0-19a2-4b7e-a1c6-e6584a332873%2Fa4c428724db4b4cf2cc45c09d2dd31f6.jpg?w=1200&auto=fort%2Ccompress&ogImage=true"
+    },
+    {
+      "id": 2,
+      "name": "DJ",
+      "family": "Snake",
+      "image_url": "https://images.thequint.com/thequint%2F2019-02%2F7f3e28c0-19a2-4b7e-a1c6-e6584a332873%2Fa4c428724db4b4cf2cc45c09d2dd31f6.jpg?w=1200&auto=fort%2Ccompress&ogImage=true"
+    },
+    {
+      "id": 3,
+      "name": "DJ",
+      "family": "Snake",
+      "image_url": "https://images.thequint.com/thequint%2F2019-02%2F7f3e28c0-19a2-4b7e-a1c6-e6584a332873%2Fa4c428724db4b4cf2cc45c09d2dd31f6.jpg?w=1200&auto=fort%2Ccompress&ogImage=true"
+    }
   ],
-  "musics": 
-  {"id":1,
-    "category_id":1,
-    "name":"mohammed",
-    "Singer":"Allah","time":"02:48",
-    "image_url":"https://s19.picofile.com/file/8432189326/1cphz0y7yj.jpg",
-    "music_url":"https:\/\/musicfeed.ir\/files\/dir\/2021\/3\/DJ%20Snake%20Selfish%20Love%20(with%20Selena%20Gomez).mp3"},
-  {"id":2,
-    "category_id":2,
-    "name":"Allah",
-    "Singer":"Mohammed","time":"02:48",
-    "image_url":"https://s19.picofile.com/file/8432189326/1cphz0y7yj.jpg",
-    "music_url":"https:\/\/musicfeed.ir\/files\/dir\/2021\/3\/DJ%20Snake%20Selfish%20Love%20(with%20Selena%20Gomez).mp3"},
-{"id":3,
-    "category_id":3,
-    "name":"Ali",
-    "Singer":"Ali","time":"02:48",
-    "image_url":"https://s19.picofile.com/file/8432189326/1cphz0y7yj.jpg",
-    "music_url":"https:\/\/musicfeed.ir\/files\/dir\/2021\/3\/DJ%20Snake%20Selfish%20Love%20(with%20Selena%20Gomez).mp3"}
-
-  
+  "musics": {
+    "id": 200,
+    "category_id": 10,
+    "name": "Selfish Love (with Selena Gomez)",
+    "Singer": "DJ Snake",
+    "time": "02:48",
+    "image_url": "https://music-daily.ir/wp-content/uploads/2021/03/5.DJ-Snake-Selena-Gomez-Selfish-Love.jpg",
+    "music_url": "https://musicfeed.ir/files/dir/2021/3/DJ%20Snake%20Selfish%20Love%20(with%20Selena%20Gomez).mp3"
+  }
 }
