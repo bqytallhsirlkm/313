@@ -3,10 +3,26 @@
     {
       "id": 1,
       "image_url": "https://s19.picofile.com/file/8432189326/1cphz0y7yj.jpg"
+    },
+     {
+      "id": 2,
+      "image_url": "https://s19.picofile.com/file/8432189326/1cphz0y7yj.jpg"
+    },
+     {
+      "id": 3,
+      "image_url": "https://s19.picofile.com/file/8432189326/1cphz0y7yj.jpg"
     }
   ],
   "category": [
     {"id":1,
+    "name":"DJ",
+    "family":"Snake",
+    "image_url":"https://s19.picofile.com/file/8432189326/1cphz0y7yj.jpg"},
+    {"id":2,
+    "name":"DJ",
+    "family":"Snake",
+    "image_url":"https://s19.picofile.com/file/8432189326/1cphz0y7yj.jpg"},
+    {"id":3,
     "name":"DJ",
     "family":"Snake",
     "image_url":"https://s19.picofile.com/file/8432189326/1cphz0y7yj.jpg"}
@@ -15,8 +31,20 @@
   "musics": 
   {"id":1,
     "category_id":1,
-    "name":"Selfish Love (with Selena Gomez)",
-    "Singer":"DJ Snake","time":"02:48",
+    "name":"mohammed",
+    "Singer":"Allah","time":"02:48",
+    "image_url":"https://s19.picofile.com/file/8432189326/1cphz0y7yj.jpg",
+    "music_url":"https:\/\/musicfeed.ir\/files\/dir\/2021\/3\/DJ%20Snake%20Selfish%20Love%20(with%20Selena%20Gomez).mp3"},
+  {"id":2,
+    "category_id":2,
+    "name":"Allah",
+    "Singer":"Mohammed","time":"02:48",
+    "image_url":"https://s19.picofile.com/file/8432189326/1cphz0y7yj.jpg",
+    "music_url":"https:\/\/musicfeed.ir\/files\/dir\/2021\/3\/DJ%20Snake%20Selfish%20Love%20(with%20Selena%20Gomez).mp3"},
+{"id":3,
+    "category_id":3,
+    "name":"Ali",
+    "Singer":"Ali","time":"02:48",
     "image_url":"https://s19.picofile.com/file/8432189326/1cphz0y7yj.jpg",
     "music_url":"https:\/\/musicfeed.ir\/files\/dir\/2021\/3\/DJ%20Snake%20Selfish%20Love%20(with%20Selena%20Gomez).mp3"}
 
