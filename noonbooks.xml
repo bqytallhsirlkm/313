@@ -1,0 +1,32 @@
+<feed>
+<id>https://s3.amazonaws.com/open.minitex.org/</id>
+<title>Open Textbook Library OPDS Feed</title>
+<updated>2021-10-06T11:19:22Z</updated>
+<link href="https://s3.amazonaws.com/open.minitex.org/" rel="self"/>
+<entry>
+<id>urn:uuid:01dc00d5-2aee-40ee-97b1-df6abfa4a905</id>
+<title>
+فترة السيادة
+</title>
+<bibframe:distribution bibframe:ProviderName="Open Textbook Library"/>
+<author>
+<name>مؤسسة نون القرآنية</name>
+<simplified:sort_name>نون القرآنية</simplified:sort_name>
+</author>
+<summary type="html">
+"إن تأثير التربية على سلوك الإنسان يشبه إلى حد كبير توفير التربة الصالحة والظروف الملائمة لنمو النبات ورشده،
+وثمره وينعه، وعليه فالاهتمام بالتربية، يعني توفير مستلزمات التوجه الصحيح، وتهيئة البيئة الصالحة لنشوء الأفراد
+الصادقين والصالحين، ولا شك أن للأسرة  وخاصة الوالدين.
+</summary>
+<updated>2018-05-01T13:01:22Z</updated>
+<link href="https://download1980.mediafire.com/sgriui7rkuig/9uf64e1y8d3uj0z/%D9%81%D8%AA%D8%B1%D8%A9+%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A91.png" type="image/jpeg" rel="http://opds-spec.org/image"/>
+<link href="https://download1980.mediafire.com/sgriui7rkuig/9uf64e1y8d3uj0z/%D9%81%D8%AA%D8%B1%D8%A9+%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A91.png" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+<dcterms:language>ar</dcterms:language>
+<dcterms:publisher>مؤسسة نون القرآنية</dcterms:publisher>
+<link href="https://download1508.mediafire.com/s51zkx73nh4g/7xkqbyrylisb0bz/%D9%81%D8%AA%D8%B1%D8%A9+%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9.pdf" rel="http://opds-spec.org/acquisition/open-access" type="application/epub+zip" dcterms:rights="https://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+<category term="Adult" scheme="http://schema.org/audience" label="Adult"/>
+<category term="مرحلة الطفولة" scheme="http://id.worldcat.org/fast/"/>
+<category term="السنون السبع الأولى (1 - 7)" scheme="http://id.worldcat.org/fast/"/>
+<category term="فترة السيادة والإمارة" scheme="http://id.worldcat.org/fast/"/>
+<link href="http://open.minitex.org/textbooks/authentication_document" rel="http://opds-spec.org/auth/document"/>
+</feed>
